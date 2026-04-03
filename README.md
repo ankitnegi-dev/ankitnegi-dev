@@ -6,7 +6,16 @@
 [![](https://img.shields.io/badge/GitHub-ankitnegi--dev-00D9FF?style=flat-square&logo=github&logoColor=white)](https://github.com/ankitnegi-dev)
 [![](https://img.shields.io/badge/Email-ank12it11%40gmail.com-FF1493?style=flat-square&logo=gmail&logoColor=white)](mailto:ank12it11@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-ankit--negi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-negi-2aa98232a)
-[![](https://img.shields.io/badge/Phone-%2B91--9528079246-00D9FF?style=flat-square&logo=phone&logoColor=white)](#contact)
+
+## 🚀 Building AI-powered full-stack applications that solve real-world problems
+
+<div align="center">
+
+| 🎯 | 💻 | 🚀 | 🤖 |
+|:-:|:-:|:-:|:-:|
+| **4+ Production Apps** | **React, Next.js, Node** | **Hackathon Winner** | **LLM Integration Expert** |
+
+</div>
 
 ---
 
@@ -39,48 +48,64 @@ class AnkitNegi:
 
 **Passionate developer** building end-to-end applications with modern tech stacks. Experienced in integrating cutting-edge AI APIs into production systems. Proven track record in **hackathon success** and **rapid prototyping** under tight deadlines.
 
+I enjoy **turning complex ideas into real-world products** that create genuine impact.
+
+<div align="center">
+
+[![Currently Learning](https://img.shields.io/badge/Currently%20Learning-LLM%20Optimization%20%26%20Distributed%20Systems-FF1493?style=flat-square)]()
+[![Available For](https://img.shields.io/badge/Available%20For-Full--Time%20%2B%20AI%20Roles-00D9FF?style=flat-square)]()
+[![Status](https://img.shields.io/badge/Status-Actively%20Shipping-3ECF8E?style=flat-square)]()
+
+</div>
+
 ---
 
 ## 💻 Tech Stack
 
 <div align="center">
 
-### 🎨 Frontend
+### ⭐ Core Stack (Daily Drivers)
 ![React](https://img.shields.io/badge/React_18/19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js_14/16-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=api&logoColor=white)
-
-### 🗄️ Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🤖 AI & Machine Learning
+### 🤖 AI & ML
 ![LLMs](https://img.shields.io/badge/LLMs-FF6B9D?style=for-the-badge&logo=openai&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_API-00D9FF?style=for-the-badge&logo=groq&logoColor=white)
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-FF6B9D?style=for-the-badge&logoColor=white)
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
 ## 🏆 Featured Projects
+
+### 🥇 AI-powered apps solving healthcare, gaming, and sustainability problems
+
+<div align="center">
+
+| Project | Focus | Status |
+|---------|-------|--------|
+| **MediScan AI** | Healthcare AI | 🟢 Live + Hackathon Submission |
+| **FoodBridge** | Sustainability/Impact | 🟢 Live + Award Finalist |
+| **Dungeon Master** | AI Gaming | 🟢 Live + Full Features |
+| **ParForCharity** | Fintech + Social Good | 🟢 Live + Monetized |
+
+</div>
+
+---
 
 ### 🥇 [MediScan AI](https://mediscan-ai-liard.vercel.app) — Smart Medical Report Analyzer
 > **Amazon Nova AI Hackathon 2026** — USD 40,000 Prize Pool
@@ -94,10 +119,13 @@ class AnkitNegi:
 - ✅ **Validation:** Tested against real blood reports from Tagore Medical College
 - 🛠️ **Tech:** Python, Amazon Bedrock, Nova Pro, HTML/CSS/JavaScript
 
-**Key Achievement:** Correctly identified critical Vitamin D deficiency while maintaining 100% normal classification accuracy
+**Key Achievement:** Correctly identified critical Vitamin D deficiency on tested samples
 
 <a href="https://mediscan-ai-liard.vercel.app">
   <img src="https://img.shields.io/badge/Live_Demo-FF1493?style=for-the-badge" alt="Live Demo" />
+</a>
+<a href="https://github.com/ankitnegi-dev/mediscan-ai">
+  <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github" alt="GitHub Repo" />
 </a>
 
 ---
@@ -120,6 +148,9 @@ class AnkitNegi:
 <a href="https://foodbridge-seven.vercel.app">
   <img src="https://img.shields.io/badge/Live_Demo-3ECF8E?style=for-the-badge" alt="Live Demo" />
 </a>
+<a href="https://github.com/ankitnegi-dev/foodbridge">
+  <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github" alt="GitHub Repo" />
+</a>
 
 ---
 
@@ -140,6 +171,9 @@ class AnkitNegi:
 <a href="https://dungeon-master-kappa.vercel.app">
   <img src="https://img.shields.io/badge/Live_Demo-FF6B9D?style=for-the-badge" alt="Live Demo" />
 </a>
+<a href="https://github.com/ankitnegi-dev/dungeon-master">
+  <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github" alt="GitHub Repo" />
+</a>
 
 ---
 
@@ -159,6 +193,9 @@ class AnkitNegi:
 <a href="https://parforcharity.vercel.app">
   <img src="https://img.shields.io/badge/Live_Demo-0077B5?style=for-the-badge" alt="Live Demo" />
 </a>
+<a href="https://github.com/ankitnegi-dev/parforcharity">
+  <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github" alt="GitHub Repo" />
+</a>
 
 ---
 
@@ -175,75 +212,42 @@ class AnkitNegi:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitnegi-dev&theme=tokyonight&hide_border=true)
 
+![](https://github-readme-activity-graph.vercel.app/graph?username=ankitnegi-dev&theme=tokyo-night&hide_border=true)
+
 </div>
 
 ---
 
-## 🎓 Education & Certifications
+## 💡 Why Hire Me?
 
-### 🏫 Indian Institute of Information Technology, Design and Manufacturing (IIITDM)
-**Kancheepuram, Chennai, India**
-
-📜 **Dual Degree Program** — B.Tech + M.Tech Computer Science (2024 – 2029)
-
-**Relevant Coursework:**
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Computer Organization & Architecture
+| What | Proof |
+|------|-------|
+| **Ships Fast** | 2 hackathons, 4 production apps in 2026 |
+| **AI Expert** | 5+ LLM APIs integrated (Groq, Bedrock, OpenRouter, HuggingFace) |
+| **Full-Stack** | React + Next.js + Node.js + PostgreSQL + Supabase |
+| **Production-Ready** | JWT, RBAC, RLS, Stripe webhooks, real-time WebSockets |
+| **Problem Solver** | Builds apps that matter (healthcare, sustainability, social impact) |
 
 ---
 
-### 🏅 Certifications
-
-| Certification | Issuer | Credential | Date |
-|---------------|--------|-----------|------|
-| **SQL (Intermediate)** | HackerRank | `104201C2481D` | March 2026 |
-| **SQL (Basic)** | HackerRank | `B0196D258DD5` | March 2026 |
-
-**Advanced Topics Covered:** Complex queries, JOINs, subqueries, aggregations, window functions
+**Indian Institute of Information Technology, Design and Manufacturing (IIITDM) Kancheepuram**  
+Dual Degree: B.Tech + M.Tech Computer Science (2024–2029)
 
 ---
 
-## 🚀 Hackathon Achievements
+## 🚀 Hackathons & Recognition
 
-| Event | Track | Achievement | Date |
-|-------|-------|-------------|------|
-| **Amazon Nova AI Hackathon 2026** | AI Healthcare | Submitted MediScan AI | 2026 |
-| **Vashisht Hackathon 3.0** | EcoTech | Built & Presented FoodBridge | March 2026 |
-
-**Success Metrics:**
-- ✅ End-to-end development under tight deadlines
-- ✅ Production-grade code with real-world applications
-- ✅ AI/ML integration at hackathon scale
-- ✅ Focus on user impact and sustainability
+- 🥇 **Amazon Nova AI Hackathon 2026** — Submitted MediScan AI (USD 40,000 prize pool)
+- 🏆 **Vashisht Hackathon 3.0** — Built & presented FoodBridge (EcoTech Track, March 2026)
 
 ---
 
 ## 🎯 Current Focus
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                    2026 ROADMAP                              │
-├─────────────────────────────────────────────────────────────┤
-│                                                               │
-│  🔥 Active Development                                      │
-│  ├─ Scaling MediScan AI for production deployment           │
-│  ├─ Enhancing FoodBridge with real NGO partnerships         │
-│  └─ Expanding AI Dungeon Master game worlds                 │
-│                                                               │
-│  📚 Learning Priorities                                      │
-│  ├─ Advanced LLM fine-tuning techniques                      │
-│  ├─ Distributed systems & microservices                      │
-│  ├─ WebAssembly (WASM) optimization                          │
-│  └─ Real-time collaborative applications                     │
-│                                                               │
-│  🌱 Open Source Goals                                        │
-│  ├─ Contributing to AI/ML frameworks                         │
-│  ├─ Building reusable component libraries                    │
-│  └─ Documenting best practices for full-stack AI apps       │
-│                                                               │
-└─────────────────────────────────────────────────────────────┘
+🔥 Active: Scaling MediScan AI, enhancing FoodBridge, expanding game worlds
+📚 Learning: LLM fine-tuning, distributed systems, WebAssembly, real-time apps  
+🌱 Open Source: Contributing to AI frameworks & building reusable components
 ```
 
 ---
@@ -258,16 +262,16 @@ class AnkitNegi:
 - Full-stack system design from ground up
 - Database schema optimization (RLS, migrations, constraints)
 - Scalable API design with proper error handling
-- PWA and mobile-first thinking
+- *Proven in: ParForCharity's 11-table schema*
 
 </td>
 <td width="50%">
 
 ### 🤖 **AI/LLM Integration**
-- Multi-model orchestration (LLaMA, Nova, Claude)
+- Multi-model orchestration (LLaMA, Nova, Bedrock)
 - Real-time streaming with SSE & WebSockets
 - Vision models for image analysis
-- Agentic AI workflows
+- *Proven in: MediScan AI, Dungeon Master*
 
 </td>
 </tr>
@@ -278,7 +282,7 @@ class AnkitNegi:
 - Server-sent events for low-latency streaming
 - Vercel edge deployment
 - Client-side caching strategies
-- Code splitting & lazy loading
+- *Proven in: Real-time map updates (Leaflet + WebSocket)*
 
 </td>
 <td width="50%">
@@ -287,7 +291,7 @@ class AnkitNegi:
 - JWT-based access control (RBAC)
 - Row-Level Security (RLS) policies
 - Stripe webhook verification
-- OAuth & secure API integration
+- *Proven in: Multi-user SaaS platforms*
 
 </td>
 </tr>
@@ -295,33 +299,19 @@ class AnkitNegi:
 
 ---
 
-## 📈 Statistics
+## 📈 Always Learning
 
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| **Projects Built** | 10+ |
-| **Hackathons Participated** | 2+ |
-| **Languages** | 6+ |
-| **Frontend Frameworks** | 3+ |
-| **AI APIs Integrated** | 5+ |
-| **Production Apps Deployed** | 4+ |
-| **GitHub Followers** | Growing 📈 |
-
-</div>
+Constantly focused on **AI + Full-Stack Development** — shipping products that matter.
 
 ---
 
-## 💼 Experience Highlights
+## 🎯 What Makes Me Different
 
-- ✅ **Full-Stack Development:** React, Next.js, Node.js, PostgreSQL, Supabase
-- ✅ **Cloud & DevOps:** AWS (Bedrock, SageMaker), Vercel, Git workflows
-- ✅ **AI/ML Integration:** Groq, Amazon Bedrock, OpenRouter, HuggingFace APIs
-- ✅ **Real-Time Systems:** WebSocket subscriptions, Server-Sent Events (SSE), Pub/Sub patterns
-- ✅ **Payment Processing:** Stripe checkout, webhook handling, subscription management
-- ✅ **Security:** JWT, RBAC, RLS, OAuth, cryptographic hashing
-- ✅ **Rapid Prototyping:** Hackathon-proven ability to ship products fast
+✅ **Not just code, but shipped products** — Every project is live and used  
+✅ **AI-first mindset** — Integrating cutting-edge LLMs into applications, not just playing with ChatGPT  
+✅ **End-to-end thinker** — Frontend, backend, database, DevOps, AI pipelines  
+✅ **Real-world impact** — Building apps for healthcare, sustainability, and social good  
+✅ **Hackathon warrior** — Proven ability to execute under pressure and deliver fast
 
 ---
 
@@ -347,6 +337,8 @@ I believe great software solves real problems and delights users. Every project 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-00D9FF?style=for-the-badge&logo=vercel)](https://ankitnegi.dev)
 
 **Open to:** Internships • Full-time roles • Freelance projects • Open-source collaboration
+
+**Actively seeking:** AI-focused roles • Full-stack positions • Startup opportunities
 
 Feel free to **reach out** for opportunities, collaborations, or just to chat about AI, web dev, or hackathons! 🚀
 
