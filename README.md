@@ -99,7 +99,7 @@ I enjoy **turning complex ideas into real-world products** that create genuine i
 | Project | Focus | Status |
 |---------|-------|--------|
 | **MediScan AI** | Healthcare AI | 🟢 Live + Hackathon Submission |
-| **FoodBridge** | Sustainability/Impact | 🟢 Live + Award Finalist |
+| **FoodBridge** | Sustainability/Impact | 🟢 Live + Hackathon Submission |
 | **Dungeon Master** | AI Gaming | 🟢 Live + Full Features |
 | **ParForCharity** | Fintech + Social Good | 🟢 Live + Monetized |
 
