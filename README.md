@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&width=600&lines=Full-Stack+Developer+%26+AI+Enthusiast;Building+intelligent+web+applications;IIITDM+Kancheepuram+%7C+Class+of+2029" alt="Typing SVG" /></a>
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&width=500&lines=Full-Stack+Developer;AI+%26+LLM+Enthusiast;Building+intelligent+apps;IIITDM+Kancheepuram+'29" alt="Typing SVG" /></a>
 
 [![](https://img.shields.io/badge/GitHub-ankitnegi--dev-00D9FF?style=flat-square&logo=github&logoColor=white)](https://github.com/ankitnegi-dev)
 [![](https://img.shields.io/badge/Email-ank12it11%40gmail.com-FF1493?style=flat-square&logo=gmail&logoColor=white)](mailto:ank12it11@gmail.com)
