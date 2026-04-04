@@ -88,7 +88,14 @@ class AnkitNegi:
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ankitnegi-dev&theme=tokyo-night&hide_border=true)
 
 </div>
----
+🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ankitnegi-dev/ankitnegi-dev/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+</div>
+
 
 
 ## 📈 Always Learning
