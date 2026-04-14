@@ -77,7 +77,7 @@ class AnkitNegi:
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankitnegi-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=00D9FF&title_color=00D9FF" alt="GitHub Stats" />
+
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitnegi-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF1493&currStreakNum=00D9FF&dates=8B8B8B" alt="GitHub Streak" />
 
 </div>
