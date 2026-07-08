@@ -112,7 +112,7 @@ Constantly focused on **AI + Full-Stack Development** — shipping products that
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ankitnegi-dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ankit-negi-2aa98232a)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail)](mailto:ank12it11@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00D9FF?style=for-the-badge&logo=vercel)](https://ankitnegi.dev)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-00D9FF?style=for-the-badge&logo=vercel)](https://ankitnegi-portfolio.vercel.app/)
 
 ---
 
