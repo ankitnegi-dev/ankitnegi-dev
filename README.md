@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankit+Negi;Full-Stack+Developer;AI+%26+LLM+Enthusiast;Building+intelligent+apps;IIITDM+Kancheepuram+CS'29" alt="Typing SVG" /></a>
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankit+Negi;Full-Stack+Developer;AI+%26+LLM+Enthusiast;Building+intelligent+apps;IIIT+Chennai+CS'29" alt="Typing SVG" /></a>
 
 ![](https://komarev.com/ghpvc/?username=ankitnegi-dev&color=00D9FF&style=flat-square)
 
@@ -21,7 +21,7 @@ class AnkitNegi:
         self.name = "Ankit Negi"
         self.role = "Full-Stack Developer & AI Enthusiast"
         self.location = "Chennai, India"
-        self.university = "IIITDM Kancheepuram"
+        self.university = "IIIT Chennai"
         self.degree = "Dual Degree (B.Tech + M.Tech)"
         self.graduation = 2029
     
@@ -101,7 +101,7 @@ class AnkitNegi:
 
 ## 📈 Always Learning
 
-Constantly focused on **AI + Full-Stack Development** — shipping products that matter.
+Constantly focused on **AI + Full-Stack Development** - shipping products that matter.
 
 ---
 
