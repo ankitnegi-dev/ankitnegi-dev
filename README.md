@@ -19,7 +19,7 @@
 class AnkitNegi:
     def __init__(self):
         self.name = "Ankit Negi"
-        self.role = "Full-Stack Developer & AI Enthusiast"
+        self.role = "Full-Stack Developer & AI Engineer"
         self.location = "Chennai, India"
         self.university = "IIIT Chennai"
         self.degree = "Dual Degree (B.Tech + M.Tech)"
